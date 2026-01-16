@@ -1,0 +1,7 @@
+{
+  "name": "Tabify AI",
+  "description": "An intelligent guitar tab generator that uses Gemini to listen to music or analyze uploaded audio files, producing high-quality guitar tablature and chords.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
